@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/cli-platform-android": "^3.0.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodash.zip": "^4.2.0",
     "react": "16.9.0",
     "react-native": "0.61.5",
